@@ -1,5 +1,5 @@
 # Discord-BotMaker
-Bot maker for Discord. (works on windows)
+Bot maker for Discord. (works on windows).
 使用方法などは下に書かれていますが、日本語・詳細はzipファイル中のREADME.mdをお読みください。
 # Rules
 1. Don't distribute secondary.
